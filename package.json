@@ -4,6 +4,10 @@
 	"description": "A proxy Server for SapUI5 apps ;)",
 	"version": "0.0.2",
 	"publisher": "Roc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rocantonio/super-proxy.git"
+	},
 	"engines": {
 		"vscode": "^1.45.0"
 	},
